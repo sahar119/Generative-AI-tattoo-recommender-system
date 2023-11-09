@@ -35,6 +35,3 @@ contains:
 ---
 ![Demo GIF](https://github.com/Virat199608/Beer-Reccomendation-system/blob/master/beerdemo1.gif)
 
-### <h3 align="left">C'est 'Done'</h3>
----
-Feel free to mail me for any doubts/query ✉️ viratpatel75@gmail.com
