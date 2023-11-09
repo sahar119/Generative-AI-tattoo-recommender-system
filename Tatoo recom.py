@@ -57,7 +57,7 @@ if __name__ == '__main__':
     #prompt = input("Please enter your sentence:")                                                                                                    
     #prompt = "a dragon tattoo design"
     prompt = st.text_input("Please enter your sentence:", 'a tattoo design with')
-    api_key = "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"
+    api_key = "***************************************************"
     model = "image-alpha-001"
     image_url = generate_image(prompt, model, api_key)
     result = st.button("Generate")
