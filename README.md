@@ -22,5 +22,5 @@ For this project, I used a dataset from the New York Metropolitan Museum of Art 
 
 ### <h3 align="left">Project Demo</h3>
 ---
-
+![Demo GIF](https://github.com/sahar119/Generative-AI-tattoo-recommender-system/blob/main/gif1.gif)
 
