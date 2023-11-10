@@ -6,7 +6,7 @@
 
 ### <h3 align="left">How does it work</h3>
 ---
-This system is a responsive web application built using Streamlit. When a user selects one title through the interface, a tattoo design will be generated and displayed on the screen.
+This system is a responsive web application built with Python and Streamlit. When a user selects one title through the interface, a tattoo design will be generated and displayed on the screen.
 
 ### <h3 align="left">Tools and Libraries used</h3>
 ---
