@@ -18,12 +18,7 @@ This system is a responsive web application built with Python and Streamlit. Whe
 
 ### <h3 align="left">Dataset</h3>
 ---
-For this project I scrapped data from [BeerAdvocate](https://www.beeradvocate.com) which is then stored in beer_final1.csv. This CSV file 
-contains:
-
-* 8 columns (Beer_name, User, Rating, Comment, %, City, Country, Image)
-* 450 unique beers
-* 14688 rows
+For this project, I used a dataset from the New York Metropolitan Museum of Art and then selected only the painting titles (5926 titles) column from all objects. 
 
 ### <h3 align="left">Project Demo</h3>
 ---
