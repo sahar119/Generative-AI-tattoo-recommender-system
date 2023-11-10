@@ -1,7 +1,7 @@
 
 # <h1 align="center">Generative-AI-tattoo-recommender-system</h1>
 
-## <h3 align="center">The aim is to provide personalized beer recommendations based on analysis of user reviews, with a focus on identifying common words and themes in those reviews.</h3>
+## <h3 align="center">The aim is to provide personalized Tattoo recommendations based on painting titles to prevent decision paralysis.</h3>
 ---
 ### <h3 align="left">Inspiration</h3>
 ---
