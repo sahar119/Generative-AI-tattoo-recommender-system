@@ -14,12 +14,9 @@ This system is a responsive web application built using Flask. Its interface is 
 ### <h3 align="left">Tools and Libraries used</h3>
 ---
 
-* Spacy
-* Matplotlib
-* Pickle
-* WordCloud
-* Numpy and Pandas
-* sklearn
+* openai API
+* Pandas
+* streamlit
 
 
 ### <h3 align="left">Dataset</h3>
